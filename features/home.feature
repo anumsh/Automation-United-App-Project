@@ -1,6 +1,6 @@
 Feature: Home Screen feature
 
-  @home_1
+  @home
   Scenario Outline: checking navigation in Horizontal Scroll View
     Given I land to Home Screen and verify Home tab is displayed
     When I click on "<tab_name>" in Horizontal Scroll View
