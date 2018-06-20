@@ -28,4 +28,4 @@ This repositpry contains mobile automation using Appium on United-Airlines App.
  
  - homepage.html is created in features folder .
  - Right click on homepage.html file and select the option "open with browser" and select Chrome.
- - You can see your cucumber report
+ - You can see your cucumber report in browser
